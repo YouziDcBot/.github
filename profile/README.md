@@ -1,6 +1,14 @@
-## Hi there 👋
+# Youzi's DcBot Org
 
-這裡沒有什麼東西 :p
+這裡將會發布有關機器人的相關程式更新，並且會邀請成員一同開發此專案。
+
+## 成員
+
+| 職位 | 成員 |
+|------:|:------------|
+| Owner | 柚子Youzi   |
+
+
 <!--
 
 **Here are some ideas to get you started:**
