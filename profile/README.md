@@ -2,15 +2,14 @@
 
 這裡將會發布有關機器人的相關程式更新，並且會邀請成員一同開發此專案。
 
-## 成員
+## 團隊
 
 | 職位 | 成員 |
 |------:|:------------|
-| Owner | 柚子Youzi   |
-
+| Owner | 柚子Youzi |
+| Cordex | N/A |
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
